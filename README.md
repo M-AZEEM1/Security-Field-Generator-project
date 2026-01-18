@@ -8,7 +8,7 @@ This project creates an invisible ultrasonic tripwire. It is designed to be tuck
 ## Key Features
 - **Auto-Calibration:** Measures and sets its own trigger threshold on boot.
 - **Stealth-First Design:** Starts in total darkness; LCD and LEDs remain off to prevent detection. On-board button (D3) allows to toggle off stealth mode, resulting in flashing LEDs and LCD printout accompanying piezo siren (upon trigger).
-- **Smart Home Ready:** Integrated with Google Home via a Smart Plug for remote arming/disarming and even automated scheduling (e.g., "Activate security field at 10 PM").
+- **Smart Home Ready:** Integrated with Google Home via smart plug for remote arming/disarming and even automated scheduling, whether through app or voice command (e.g., "Activate security field at 10 PM").
 - **High-Impact Alarm:** 3000Hz–4500Hz siren sweep with dual-LED strobe.
 - **Debugging Data:** Manual button toggle (D3) to wake the display and view real-time sensor data.
 
